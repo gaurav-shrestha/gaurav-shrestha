@@ -13,7 +13,7 @@
 
 -   👨‍💻 All of my projects are available at <a style="text-decoration:none" href="https://github.com/gaurav-shrestha?tab=repositories" target="_blank">📁</a>
 
--   💬 Ask me about **Python, Html, CSS, JavaScript, and Version Controls.**
+-   💬 Ask me about **Python, HTML, CSS, JavaScript, and Version Controls.**
 
 
 
@@ -39,7 +39,11 @@
 
 
 <!-- CONTRIBUTION CHART -->
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=gaurav-shrestha&theme=react-dark" alt="gaurav-shrestha's github activity graph"/></p>
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=gaurav-shrestha&theme=react-dark" alt="gaurav-shrestha's github activity graph"/>
+    <!--SNAKE GAME-->
+   <img src="https://github.com/gaurav-shrestha/gaurav-shrestha/blob/output/github-contribution-grid-snake.svg" alt="gaurav-shrestha's github snake maze" />
+</p>
 
 
 
