@@ -1,5 +1,5 @@
 <!-- GREETING -->
-![Typing Short Intro Message](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=5E54FF&width=435&lines=Hello%F0%9F%91%8B%2C+I'm+Gaurav+Pratap+Shrestha;Welcome+to+my+Github+Page;)
+![Typing Short Intro Message](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4500&pause=750&color=07D0FF&width=750&height=80&lines=Hello%F0%9F%91%8B%2C+I'm+Gaurav+Pratap+Shrestha;Welcome+to+my+Github+Page;)
 
 
 
@@ -50,6 +50,6 @@
 <!--  STATISTICS -->
 ## Statistics:
 <p><img src="https://komarev.com/ghpvc/?username=gaurav-shrestha&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-shrestha"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaurav-shrestha&theme=midnight-purple&count_private=true&show_icons=true" height=200> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-shrestha&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="gaurav-shrestha" height=150/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-shrestha&theme=midnight-purple&" alt="gaurav-shrestha" height=150 /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaurav-shrestha&theme=react&count_private=true&show_icons=true" height=200> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-shrestha&theme=react&show_icons=true&locale=en&layout=compact" alt="gaurav-shrestha" height=150/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-shrestha&theme=react" alt="gaurav-shrestha" height=150 /> </p>
