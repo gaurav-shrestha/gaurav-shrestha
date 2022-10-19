@@ -40,7 +40,7 @@
 
 <!-- CONTRIBUTION CHART -->
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=gaurav-shrestha&theme=react-dark" alt="gaurav-shrestha's github activity graph"/>
+    <!-- <img src="https://activity-graph.herokuapp.com/graph?username=gaurav-shrestha&theme=react-dark" alt="gaurav-shrestha's github activity graph"/> -->
     <!--SNAKE GAME-->
    <img src="https://github.com/gaurav-shrestha/gaurav-shrestha/blob/output/github-contribution-grid-snake.svg" alt="gaurav-shrestha's github snake maze" />
 </p>
