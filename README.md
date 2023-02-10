@@ -9,11 +9,11 @@
 
 
 <!-- DETAILS -->
--   🌱 I’m currently learning **JavaScript.**
+-   🌱 I’m currently learning **JavaScript, Tailwind CSS** and many more.
 
 -   👨‍💻 All of my projects are available at <a style="text-decoration:none" href="https://github.com/gaurav-shrestha?tab=repositories" target="_blank">📁</a>
 
--   💬 Ask me about **Python, HTML, CSS, JavaScript, and Version Controls.**
+- View my <a href="https://gaurav-shrestha.github.io/" target="_blank">Portfolio</a>
 
 
 
@@ -35,6 +35,9 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 
