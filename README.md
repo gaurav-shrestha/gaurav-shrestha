@@ -53,6 +53,6 @@
 <!--  STATISTICS -->
 ## Statistics:
 <p><img src="https://komarev.com/ghpvc/?username=gaurav-shrestha&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-shrestha"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaurav-shrestha&theme=react&count_private=true&show_icons=true" height=200> </p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaurav-shrestha&theme=react&count_private=true&show_icons=true" height=200> </p> -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-shrestha&theme=react&show_icons=true&locale=en&layout=compact" alt="gaurav-shrestha" height=150/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-shrestha&theme=react" alt="gaurav-shrestha" height=150 /> </p>
